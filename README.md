@@ -2,6 +2,10 @@
 
 This Project is my first attemd to create a multiplayer game. This is not for production use. To win you have to collect more stars as the other team.
 
+**Guide:**
+- Part 1: https://gamedevacademy.org/create-a-basic-multiplayer-game-in-phaser-3-with-socket-io-part-1/
+- Part 2: https://gamedevacademy.org/create-a-basic-multiplayer-game-in-phaser-3-with-socket-io-part-2/
+
 # Tech-Stack
 
 - Express
