@@ -11,7 +11,7 @@ This Project is my first attemd to create a multiplayer game. This is not for pr
 - Express
 - Node.js
 - Socket.io
-- Phase-3
+- Phaser-3
 
 # How to Start the game
 
